@@ -31,7 +31,7 @@
     "marked": "0.6.2",
     "node-pty": "0.8.1",
     "shelljs": "0.8.3",
-    "strip-ansi": "^5.2.0",
+    "strip-ansi": "^7.0.0",
     "ws": "7.0.0",
     "xterm": "3.13.0"
   },
