@@ -30,7 +30,7 @@
     "diff2html": "2.9.0",
     "marked": "0.6.2",
     "node-pty": "0.8.1",
-    "shelljs": "0.8.3",
+    "shelljs": "0.8.5",
     "strip-ansi": "^5.2.0",
     "ws": "7.0.0",
     "xterm": "3.13.0"
