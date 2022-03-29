@@ -41,7 +41,7 @@
     "electron-squirrel-startup": "1.0.0",
     "extract-zip": "1.6.7",
     "fs-extra": "8.0.1",
-    "js-beautify": "1.10.0",
+    "js-beautify": "1.14.1",
     "json-colorizer": "2.2.1",
     "mkdirp": "0.5.1",
     "needle": "2.4.0",
