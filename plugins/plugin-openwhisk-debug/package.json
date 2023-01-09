@@ -25,7 +25,7 @@
     "postpack": "for i in dist/*; do if [ -d $i ]; then for j in $i/*; do rm -rf ./`basename $i`/`basename $j`; done; else rm -rf ./`basename $i`; fi; done && rm -rf dist"
   },
   "dependencies": {
-    "extract-zip": "1.6.7",
+    "extract-zip": "2.0.0",
     "fs-extra": "8.0.1",
     "needle": "2.4.0",
     "node-docker-api": "1.1.22",
